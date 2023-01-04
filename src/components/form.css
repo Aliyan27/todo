@@ -1,0 +1,32 @@
+label {
+  text-align: center;
+  color: rgba(7, 7, 67, 0.469);
+  font-size: 24px;
+  line-height: 30px;
+}
+input {
+  border: 4px solid rgba(7, 7, 67, 0.469);
+  padding: 10px 0;
+  display: inline-block;
+  width: 30%;
+  margin: 0 auto;
+  border-radius: 10px;
+}
+.Dashboard {
+  display: flex;
+  flex-direction: column;
+  row-gap: 15px;
+  margin-bottom: 15px;
+}
+button {
+  display: inline-block;
+  width: 10%;
+  margin: 0 auto;
+  border-radius: 10px;
+  padding: 10px 0;
+  color: rgba(7, 7, 67, 0.469);
+  font-size: 24px;
+  line-height: 30px;
+  border: none;
+  cursor: pointer;
+}
